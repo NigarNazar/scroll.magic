@@ -1,0 +1,28 @@
+body{
+    background: #86A8E7;
+    margin: 0;
+    padding: 0;
+
+}
+
+.sec-section {
+    width: 100%;
+    height: 150vh;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    position: relative;
+  }
+  
+  .sec-section .images-wrapper {
+    margin-top: 30%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .sec-section .images-wrapper img {
+
+    position: absolute;
+  }
